@@ -17,6 +17,25 @@ out/
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
 # release/
 
+
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+
 # Gradle files
 .gradle/
 build/

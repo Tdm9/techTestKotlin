@@ -1,0 +1,11 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:backgroundTint="#71D8C7"
+            android:contentDescription="image" />
+</layout>
